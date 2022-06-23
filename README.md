@@ -20,6 +20,8 @@ Fat Contract is 100% compatible with Substrate’s `pallet-contracts`. It fully 
 ## Contents
 - [Resources](#resources)
 - [Past Hackathon dApps](#past-hackathon-dapps)
+- [Fat Contract Examples](#fat-contract-examples)
+- [Ink! Smart Contract Examples](#ink!-smart-contract-examples)
 
 ## Resources
 - Learning
@@ -34,3 +36,15 @@ Fat Contract is 100% compatible with Substrate’s `pallet-contracts`. It fully 
 - [SecretMD](https://github.com/Phala-Network/Encode-Hackathon-2021/issues/20) - a rich markdown editor which allows users to store and share any plain markdown file onto a distributed and confidential Phala blockchain in Polkadot ecosystem
 - [Fat 2FA](https://github.com/Phala-Network/amsterDOT-2022/issues/12) - an application achieves two-factor authentication on chain, without leaking any sensitive data
 - [Privacy Preserving Voting](https://github.com/Phala-Network/amsterDOT-2022/issues/10) - a simple account based voting mechanism using Fat Contracts
+
+## Fat Contract Examples
+- [Secret File](https://github.com/shelvenzhou/secret-file) - secret file implementation using Fat Contracts
+- [Github Attestation](https://github.com/Phala-Network/fat-contract-workshop) - a workshop demonstrating how to write a Fat Contract with its HTTP request capability on Phala
+- [X-Chain HTTP Request: Subgraph NounsDAO](https://github.com/HashWarlock/phat-contract-examples/tree/master/examples/subgraph-nouns) - demonstrate how to make a HTTPS request to an indexing service Subgraph to query information about the NounsDAO collection in a Fat Contract
+- [Roshambo](https://github.com/HashWarlock/phat-contract-examples/tree/master/examples/roshambo) - a game of Roshambo (Rock, Paper, Scissors) in a Fat Contract
+
+## Ink! Smart Contract Examples
+- [OpenBrush Library](https://github.com/Supercolony-net/openbrush-contracts) - OpenBrush is a library for smart contract development on ink!
+- [Candle Auction](https://github.com/agryaznov/candle-auction-ink) - an Ink! smart contract implementing a candle auction logic
+- [Dead Man Switch](https://github.com/lovesh/dead_man_switch_substrate_ink) - a dead man's switch written using ink! smart contracts
+- [Nested Structs Example](https://github.com/czyczk/exp-ink-struct) - a boilerplate example of using nested structs for ink! smart contracts
