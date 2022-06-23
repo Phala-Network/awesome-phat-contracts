@@ -19,9 +19,18 @@ Fat Contract is 100% compatible with Substrate’s `pallet-contracts`. It fully 
 
 ## Contents
 - [Resources](#resources)
+- [Past Hackathon dApps](#past-hackathon-dapps)
 
 ## Resources
 - Learning
   - [Fat Contract's Tutorial Wiki](https://wiki.phala.network/en-us/build/developer/fat-contract-tutorial/) - tutorial to demonstrate how to use Fat Contract’s HTTP request capability to associate a Phala account with a Github user. For the video tutorial checkout [Phala Fat Contract's Workshop](https://www.youtube.com/watch?v=B7fUwRxelu4&t=1963s).
   - [Ink! Smart Contracts Docs](https://ink.substrate.io/) - ink! is an eDSL to write smart contracts in Rust for blockchains built on the Substrate framework. ink! contracts are compiled to WebAssembly.
   - [Awesome Ink!](https://github.com/paritytech/awesome-ink) - A curated list of awesome projects related to Parity's ink!.
+
+## Past Hackathon dApps
+- [PhaPass](https://github.com/Phala-Network/Encode-Hackathon-2021/issues/12) - a password manager on Phala
+- [Darkpool DEX](https://github.com/Phala-Network/Encode-Hackathon-2021/issues/16) - a proof-of-concept Darkpool Decentralized Exchange as a dApp/smart contract on top of Phala
+- [RMRK Ghost Auction](https://github.com/Phala-Network/Encode-Hackathon-2021/issues/19) - a simple ghost auction that would allow RMRK NFT artists to run automated auctions while not available on Singular using HTTP requests on Phala Fat Contracts
+- [SecretMD](https://github.com/Phala-Network/Encode-Hackathon-2021/issues/20) - a rich markdown editor which allows users to store and share any plain markdown file onto a distributed and confidential Phala blockchain in Polkadot ecosystem
+- [Fat 2FA](https://github.com/Phala-Network/amsterDOT-2022/issues/12) - an application achieves two-factor authentication on chain, without leaking any sensitive data
+- [Privacy Preserving Voting](https://github.com/Phala-Network/amsterDOT-2022/issues/10) - a simple account based voting mechanism using Fat Contracts
