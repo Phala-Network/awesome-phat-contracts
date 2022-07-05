@@ -34,7 +34,7 @@ Fat Contract is 100% compatible with Substrate’s `pallet-contracts`. It fully 
   - [Phala's Fat Contract](https://medium.com/supercolony/fat-contract-introduce-off-chain-computation-to-smart-contract-d44dc8afb141) - A Medium post about the introduction of off-chain computation to smart contracts written by Phala's Lead Researcher Dr. Shelven Zhou.
   - [Off-chaining Models and Approaches to Off-chain Computations](https://www.ise.tu-berlin.de/fileadmin/fg308/publications/2018/Off-chaining_Models_and_Approaches_to_Off-chain_Computations.pdf) - A paper written by Jacob Eberhardt & Jonathan Heiss describing off-chaining models using verifiable off-chain computation (**zkSNARKS**, **Bulletproofs**, **zkSTARKS**), enclave based off-chain computation (**TEEs**), secure multiparty computation based off-chaining (**sMPC**) & incentive-driven off-chain computing (**IOC**)
 - Tools
-  - [Phala Contract's UI](https://github.com/Phala-Network/phala-contract-ui) - UI frontend to deploy Fat Contracts.
+  - [Phala Contract's UI](https://phat.phala.network) - UI frontend to deploy Fat Contracts.
 
 ## Past Hackathon dApps
 - [PhaPass](https://github.com/Phala-Network/Encode-Hackathon-2021/issues/12) - a password manager on Phala
@@ -49,6 +49,7 @@ Fat Contract is 100% compatible with Substrate’s `pallet-contracts`. It fully 
 - [Github Attestation](https://github.com/Phala-Network/fat-contract-workshop) - a workshop demonstrating how to write a Fat Contract with its HTTP request capability on Phala
 - [X-Chain HTTP Request: Subgraph NounsDAO](https://github.com/HashWarlock/phat-contract-examples/tree/master/examples/subgraph-nouns) - demonstrate how to make a HTTPS request to an indexing service Subgraph to query information about the NounsDAO collection in a Fat Contract
 - [Roshambo](https://github.com/HashWarlock/phat-contract-examples/tree/master/examples/roshambo) - a game of Roshambo (Rock, Paper, Scissors) in a Fat Contract
+- [Oracle Workshop](https://github.com/Phala-Network/oracle-workshop) - an extensive workshop demonstrating how to write an Oracle with Fat Contracts
 
 ## Ink! Smart Contract Examples
 - [OpenBrush Library](https://github.com/Supercolony-net/openbrush-contracts) - OpenBrush is a library for smart contract development on ink!
