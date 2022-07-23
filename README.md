@@ -50,6 +50,7 @@ Fat Contract is 100% compatible with Substrate’s `pallet-contracts`. It fully 
 - [X-Chain HTTP Request: Subgraph NounsDAO](https://github.com/HashWarlock/phat-contract-examples/tree/master/examples/subgraph-nouns) - demonstrate how to make a HTTPS request to an indexing service Subgraph to query information about the NounsDAO collection in a Fat Contract
 - [Roshambo](https://github.com/HashWarlock/phat-contract-examples/tree/master/examples/roshambo) - a game of Roshambo (Rock, Paper, Scissors) in a Fat Contract
 - [Oracle Workshop](https://github.com/Phala-Network/oracle-workshop) - an extensive workshop demonstrating how to write an Oracle with Fat Contracts
+- [Phat RPC](https://github.com/HashWarlock/oracle-workshop/tree/phat-rpc/phat_rpc) - a Fat Contract that can interact with OnFinality RPC nodes through HTTPS requests
 
 ## Ink! Smart Contract Examples
 - [OpenBrush Library](https://github.com/Supercolony-net/openbrush-contracts) - OpenBrush is a library for smart contract development on ink!
