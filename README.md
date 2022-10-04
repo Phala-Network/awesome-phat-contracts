@@ -48,6 +48,7 @@ Phat Contract is 100% compatible with Substrate’s `pallet-contracts`. It fully
 ## Phat Contract Examples
 - [Oracle Workshop](https://github.com/Phala-Network/oracle-workshop) - an extensive workshop demonstrating how to write an Oracle with Phat Contracts.
 - [Phat Contract Examples](https://github.com/Phala-Network/fat-contract-examples) - boilerplate examples of various Phat Contracts.
+- [Phat Storage](https://github.com/christopherfkk/fat-contract-s3-sync) - how to connect Phala's Phat Contract to external storage services, both centralized (Amazon s3) and decentralized (Arweave/Filecoin through 4everland, Storj, Filebase).
 - [ETH Holder](https://github.com/www222fff/oracle-workshop/tree/master/eth_holder) - derive an ETH ECDSA account in the Phat Contract then fund the account w/ ETH and send a raw transaction to a configured RPC Node with the `eth_sendRawTransaction` RPC method.
 - [Phat RPC](https://github.com/HashWarlock/phat-contract-examples/tree/master/examples/phat-rpc) - a Phat Contract that can interact with OnFinality RPC nodes through HTTPS requests.
 - [Secret File](https://github.com/shelvenzhou/secret-file) - secret file implementation using Phat Contracts.
