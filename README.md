@@ -36,6 +36,8 @@ Phat Contract is 100% compatible with Substrate’s `pallet-contracts`. It fully
   - [Off-chaining Models and Approaches to Off-chain Computations](https://www.ise.tu-berlin.de/fileadmin/fg308/publications/2018/Off-chaining_Models_and_Approaches_to_Off-chain_Computations.pdf) - A paper written by Jacob Eberhardt & Jonathan Heiss describing off-chaining models using verifiable off-chain computation (**zkSNARKS**, **Bulletproofs**, **zkSTARKS**), enclave based off-chain computation (**TEEs**), secure multiparty computation based off-chaining (**sMPC**) & incentive-driven off-chain computing (**IOC**).
 - Tools
   - [Phala Contract's UI](https://phat.phala.network) - UI frontend to deploy Phat Contracts.
+  - [Phala Swanky Integration](https://github.com/AstarNetwork/swanky-plugin-phala) - Phala Swanky integration for an all-in-one development environment for WASM ink-based Phat Contracts.
+  - [DevPHAse](https://github.com/l00k/devphase) - Run a Phala local testnet and compile/test Phat Contracts in a development environment.
 
 ## Past Hackathon dApps
 - [PhaPass](https://github.com/Phala-Network/Encode-Hackathon-2021/issues/12) - a password manager on Phala
@@ -46,6 +48,7 @@ Phat Contract is 100% compatible with Substrate’s `pallet-contracts`. It fully
 - [Privacy Preserving Voting](https://github.com/Phala-Network/amsterDOT-2022/issues/10) - a simple account based voting mechanism using Phat Contracts.
 
 ## Phat Contract Examples
+- [Sub0 2022 Oracale & Off-Chain Rollup Workshop](https://github.com/Phala-Network/phat-offchain-rollup/tree/sub0-workshop) - an upgrade from the Oracle Workshop that implements the off-chain rollup pallet in the Phala testnet chain for the Phat Contract to respond with price feed information from the Phat Contracts to the Phala testnet chain.
 - [Oracle Workshop](https://github.com/Phala-Network/oracle-workshop) - an extensive workshop demonstrating how to write an Oracle with Phat Contracts.
 - [Phat Contract Examples](https://github.com/Phala-Network/fat-contract-examples) - boilerplate examples of various Phat Contracts.
 - [Phat Storage](https://github.com/christopherfkk/fat-contract-s3-sync) - how to connect Phala's Phat Contract to external storage services, both centralized (Amazon s3) and decentralized (Arweave/Filecoin through 4everland, Storj, Filebase).
