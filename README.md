@@ -19,6 +19,7 @@ Phat Contract is 100% compatible with Substrate’s `pallet-contracts`. It fully
 
 ## Contents
 - [Resources](#resources)
+- [dApps](#dapps)
 - [Past Hackathon dApps](#past-hackathon-dapps)
 - [Phat Contract Examples](#phat-contract-examples)
 - [Ink Smart Contract Examples](#ink-smart-contract-examples)
@@ -49,6 +50,9 @@ Phat Contract is 100% compatible with Substrate’s `pallet-contracts`. It fully
   - [DevPHAse](https://github.com/l00k/devphase) - Run a Phala local testnet and compile/test Phat Contracts in a development environment.
 - Service Limits
   - [Service Limits Table](https://wiki.phala.network/en-us/build/support/resource-limits/) - service limits for Phat Contracts and SideVM.
+
+## dApps
+- [PrivaDEX](https://app.privadex.xyz/) - PrivaDEX is the cross-chain DEX aggregator native to Polkadot. As an example, you can swap from USDC (Wormhole) on Moonbeam to ARSW on Astar in one click.
 
 ## Past Hackathon dApps
 - [PhaPass](https://github.com/Phala-Network/Encode-Hackathon-2021/issues/12) - a password manager on Phala
