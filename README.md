@@ -25,6 +25,15 @@ Phat Contract is 100% compatible with Substrate’s `pallet-contracts`. It fully
 
 
 ## Resources
+- Rust Crates for `pink`
+  - [Storage Services](https://wiki.phala.network/en-us/build/stateless/rust-crates/#use-storage-services) 
+    - [`pink-s3`](https://crates.io/crates/pink-s3) - Simple pure Rust AWS S3 Client for Phala Network's `pink` environment. Supports S3-API for [4Everland](https://www.4everland.org/bucket/) to connect to Arweave, Filecoin, Storj, and AWS S3.
+  - [Cross-Chain Operations](https://wiki.phala.network/en-us/build/stateless/rust-crates/#cross-chain-operations)
+    - [`pink-web3`](https://crates.io/crates/pink-web3) - provides the basic cross-chain operation support for EVM-compatible chains.
+    - [`pink-subrpc`](https://crates.io/crates/pink-subrpc) - provides the basic support for Substrate-based chains.
+    - [`pink-kv-session`](https://crates.io/crates/pink-kv-session) - KV session primitives for phat off-chain rollup.
+- Pink Extension
+  - [Pink Extension Functions](https://wiki.phala.network/en-us/build/stateless/pink-extension/) - All the unique capabilities of Phat Contract are implemented in [pink-extension](https://github.com/Phala-Network/phala-blockchain/tree/master/crates/pink).
 - Learning
   - [Phat Contract's Tutorial Wiki](https://wiki.phala.network/en-us/build/developer/fat-contract-tutorial/) - tutorial to demonstrate how to use Phat Contract’s HTTP request capability to associate a Phala account with a Github user. For the video tutorial checkout [Phala Phat Contract's Workshop](https://www.youtube.com/watch?v=B7fUwRxelu4&t=1963s).
   - [Frontend SDK](https://github.com/Phala-Network/js-sdk) - frontend SDK for building UI for Phala Phat Contracts.
@@ -38,6 +47,8 @@ Phat Contract is 100% compatible with Substrate’s `pallet-contracts`. It fully
   - [Phala Contract's UI](https://phat.phala.network) - UI frontend to deploy Phat Contracts.
   - [Phala Swanky Integration](https://github.com/AstarNetwork/swanky-plugin-phala) - Phala Swanky integration for an all-in-one development environment for WASM ink-based Phat Contracts.
   - [DevPHAse](https://github.com/l00k/devphase) - Run a Phala local testnet and compile/test Phat Contracts in a development environment.
+- Service Limits
+  - [Service Limits Table](https://wiki.phala.network/en-us/build/support/resource-limits/) - service limits for Phat Contracts and SideVM.
 
 ## Past Hackathon dApps
 - [PhaPass](https://github.com/Phala-Network/Encode-Hackathon-2021/issues/12) - a password manager on Phala
