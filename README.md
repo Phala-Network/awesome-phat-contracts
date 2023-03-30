@@ -1,7 +1,7 @@
 # Awesome Phat Contracts [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <p align="center">
   <a href="https://phala.network/">
-    <img alt="Phala Network" src="./assets/PhalaLogo.png">
+    <img alt="Phala Network" src="./assets/Phat-Contract-Logo.png">
   </a>
 </p>
 
