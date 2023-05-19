@@ -63,6 +63,7 @@ Phat Contract is 100% compatible with Substrate’s `pallet-contracts`. It fully
 - [Privacy Preserving Voting](https://github.com/Phala-Network/amsterDOT-2022/issues/10) - a simple account based voting mechanism using Phat Contracts.
 
 ## Phat Contract Examples
+- [Phat Offchain Rollup](https://github.com/Phala-Network/phat-offchain-rollup) - Phat Offchain Rollup is an SDK designed to simplify the process of connecting Phat Contracts to a wide range of blockchains. Its primary focus is on providing transactional and atomic cross-blockchain operations for seamless integration and interaction. 
 - [Sub0 2022 Oracale & Off-Chain Rollup Workshop](https://github.com/Phala-Network/phat-offchain-rollup/tree/sub0-workshop) - an upgrade from the Oracle Workshop that implements the off-chain rollup pallet in the Phala testnet chain for the Phat Contract to respond with price feed information from the Phat Contracts to the Phala testnet chain.
 - [Oracle Workshop](https://github.com/Phala-Network/oracle-workshop) - an extensive workshop demonstrating how to write an Oracle with Phat Contracts.
 - [Phat Contract Examples](https://github.com/Phala-Network/fat-contract-examples) - boilerplate examples of various Phat Contracts.
@@ -75,7 +76,7 @@ Phat Contract is 100% compatible with Substrate’s `pallet-contracts`. It fully
 - [Roshambo](https://github.com/HashWarlock/phat-contract-examples/tree/master/examples/roshambo) - a game of Roshambo (Rock, Paper, Scissors) in a Phat Contract.
 
 ## Ink Smart Contract Examples
-- [Parity's Ink!](https://github.com/paritytech/ink) - Parity's ink! to write WASM smart contracts.
+- [Parity's Ink!](https://github.com/paritytech/ink-examples/tree/main) - Parity's ink! WASM smart contracts examples repo.
 - [Astar's Swanky CLI](https://github.com/AstarNetwork/swanky-cli) - The all-in-one developer environment for Parity WASM smart contracts!
 - [OpenBrush Library](https://github.com/Supercolony-net/openbrush-contracts) - OpenBrush is a library for smart contract development on ink!
 - [Candle Auction](https://github.com/agryaznov/candle-auction-ink) - an Ink! smart contract implementing a candle auction logic.
