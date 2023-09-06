@@ -24,6 +24,7 @@ Phat Contract is 100% compatible with Substrate’s `pallet-contracts`. It fully
 
 ## Contents
 - [Resources](#resources)
+- [Phat Bricks :bricks:](#phat-bricks-bricks)
 - [dApps](#dapps)
 - [Past Hackathon dApps](#past-hackathon-dapps)
 - [Phat Contract Examples](#phat-contract-examples)
@@ -52,12 +53,21 @@ Phat Contract is 100% compatible with Substrate’s `pallet-contracts`. It fully
   - [Phala's Phat Contract](https://medium.com/supercolony/fat-contract-introduce-off-chain-computation-to-smart-contract-d44dc8afb141) - A Medium post about the introduction of off-chain computation to smart contracts written by Phala's Lead Researcher Dr. Shelven Zhou.
   - [Off-chaining Models and Approaches to Off-chain Computations](https://www.ise.tu-berlin.de/fileadmin/fg308/publications/2018/Off-chaining_Models_and_Approaches_to_Off-chain_Computations.pdf) - A paper written by Jacob Eberhardt & Jonathan Heiss describing off-chaining models using verifiable off-chain computation (**zkSNARKS**, **Bulletproofs**, **zkSTARKS**), enclave based off-chain computation (**TEEs**), secure multiparty computation based off-chaining (**sMPC**) & incentive-driven off-chain computing (**IOC**).
 - Tools
-  - [Phat Bricks](https://bricks.phala.network) - Phat Bricks offers the ability to deploy applications without the need for coding. Phat Contract provides pre-defined components (Phat Bricks), and customizable templates (Blueprints) to effortlessly construct functional and efficient dApps.
   - [Phala Contract's UI](https://phat.phala.network) - UI frontend to deploy Phat Contracts.
   - [Phala Swanky Integration](https://github.com/AstarNetwork/swanky-plugin-phala) - Phala Swanky integration for an all-in-one development environment for WASM ink-based Phat Contracts.
   - [DevPHAse](https://github.com/l00k/devphase) - Run a Phala local testnet and compile/test Phat Contracts in a development environment.
 - Service Limits
   - [Service Limits Table](https://wiki.phala.network/en-us/build/support/resource-limits/) - service limits for Phat Contracts and SideVM.
+
+## Phat Bricks :bricks:
+- [Phat Bricks UI](https://bricks.phala.network) - Phat Bricks offers the ability to deploy applications without the need for coding. Phat Contract provides pre-defined components (Phat Bricks), and customizable templates (Blueprints) to effortlessly construct functional and efficient dApps.
+- [LensAPI Oracle](https://docs.phala.network/developers/bricks-and-blueprints/featured-blueprints/lensapi-oracle) - LensAPI Oracle blueprint that allows for Consumer Contract on Polygon to trustlessly get data from the Lens API.
+  - [DeveloperDAO Workshop](https://www.youtube.com/watch?v=eDSy365I4_s) - DeveloperDAO Workshop with hashwarlock on how to deploy a LensAPI Oracle, connect a Consumer Contract on Polygon to the LensAPI Oracle, and finally connecting a UI to the Consumer Contract.
+  - [LensAPI Oracle Consumer Contract Template](https://github.com/Phala-Network/lensapi-oracle-consumer-contract/tree/main) - LensAPI Oracle Consumer Contract template that connects to the LensAPI Oracle blueprint deployed on Phala Network.
+- [Phala Blueprint Proposals](https://github.com/Phala-Network/phala-blueprint-proposals) - Repo to submit issues and new proposals for blueprints to be added to the Phat Bricks UI.
+
+### Consumer Contract Examples
+- [Lens Treasure Hunt](https://github.com/HashWarlock/lens-treasure-hunt-se2) - Example of a Consumer Contract for the LensAPI Oracle to create a treasure hunt based on Lens Profiles.
 
 ## dApps
 - [PrivaDEX](https://app.privadex.xyz/) - PrivaDEX is the cross-chain DEX aggregator native to Polkadot. As an example, you can swap from USDC (Wormhole) on Moonbeam to ARSW on Astar in one click.
