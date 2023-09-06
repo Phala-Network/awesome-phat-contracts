@@ -64,6 +64,7 @@ Phat Contract is 100% compatible with Substrate’s `pallet-contracts`. It fully
 - [LensAPI Oracle](https://docs.phala.network/developers/bricks-and-blueprints/featured-blueprints/lensapi-oracle) - LensAPI Oracle blueprint that allows for Consumer Contract on Polygon to trustlessly get data from the Lens API.
   - [DeveloperDAO Workshop](https://www.youtube.com/watch?v=eDSy365I4_s) - DeveloperDAO Workshop with hashwarlock on how to deploy a LensAPI Oracle, connect a Consumer Contract on Polygon to the LensAPI Oracle, and finally connecting a UI to the Consumer Contract.
   - [LensAPI Oracle Consumer Contract Template](https://github.com/Phala-Network/lensapi-oracle-consumer-contract/tree/main) - LensAPI Oracle Consumer Contract template that connects to the LensAPI Oracle blueprint deployed on Phala Network.
+  - [How to Test Your First Function Locally](https://gist.github.com/HashWarlock/8248f218112b917919150d636416c891) - Learn how to test your custom JS function locally before deploying your LensAPI Oracle to PoC5 testnet or mainnet.
 - [Phala Blueprint Proposals](https://github.com/Phala-Network/phala-blueprint-proposals) - Repo to submit issues and new proposals for blueprints to be added to the Phat Bricks UI.
 
 ### Consumer Contract Examples
