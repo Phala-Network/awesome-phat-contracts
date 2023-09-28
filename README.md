@@ -6,8 +6,11 @@
     <img alt="Phala Network" src="./assets/Phat-Contract-Logo.png">
   </a>
 </p>
+
+> ### 🛑 Hey Now! Hold Up
+> <b>If you're a dive in 🕳️ first type of builder, 🌪️ [ENTER THE FUNNEL](https://github.com/Phala-Network/phat-contract-starter-kit) to start building your first cross-chain ⛓ dApp on Phat Contract with your choice of EVM chain.</b>
  
-## [Phat Contract](https://docs.phala.network/developers/phat-contract) 
+## [Phat Contract](https://docs.phala.network/developers/phat-contract)
 Phat Contract is the program running off-chain on Phala Network that developers can use to implement a broad range of features for their dApps.
 
 By combining on-chain verification with off-chain capabilities, Phat Contracts brings a plethora of features to decentralized applications.
